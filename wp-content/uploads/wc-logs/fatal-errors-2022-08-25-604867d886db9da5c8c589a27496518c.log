@@ -1,0 +1,10 @@
+2022-08-25T03:37:15+00:00 CRITICAL require(): Failed opening required './header.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /home/lenovodev/Local Sites/findvc/app/public/wp-content/themes/my-listing-child/findvc-dashboard/dashboard-founder.php on line 10
+
+2022-08-25T03:37:58+00:00 CRITICAL syntax error, unexpected end of file in /home/lenovodev/Local Sites/findvc/app/public/wp-content/themes/my-listing-child/findvc-dashboard/dashboard-founder.php on line 12
+
+2022-08-25T03:48:29+00:00 CRITICAL syntax error, unexpected end of file in /home/lenovodev/Local Sites/findvc/app/public/wp-content/themes/my-listing/footer.php on line 55
+
+2022-08-25T03:52:11+00:00 CRITICAL require_once(): Failed opening required 'header.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /home/lenovodev/Local Sites/findvc/app/public/wp-content/themes/my-listing-child/findvc-dashboard/dashboard-founder.php on line 10
+
+2022-08-25T15:25:06+00:00 CRITICAL require_once(): Failed opening required '/templates/dashboard-init.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /home/lenovodev/Local Sites/findvc/app/public/wp-content/themes/my-listing-child/findvc-dashboard/dashboard-founder.php on line 8
+

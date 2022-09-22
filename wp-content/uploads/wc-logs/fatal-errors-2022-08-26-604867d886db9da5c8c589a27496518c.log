@@ -1,0 +1,78 @@
+2022-08-26T02:02:03+00:00 CRITICAL require_once(): Failed opening required '/templates/dashboard-init.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /home/lenovodev/Local Sites/findvc/app/public/wp-content/themes/my-listing-child/findvc-dashboard/dashboard-founder.php on line 8
+
+2022-08-26T02:02:16+00:00 CRITICAL require_once(): Failed opening required './templates/dashboard-init.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /home/lenovodev/Local Sites/findvc/app/public/wp-content/themes/my-listing-child/findvc-dashboard/dashboard-founder.php on line 8
+
+2022-08-26T02:02:45+00:00 CRITICAL require_once(): Failed opening required './templates/founder/dashboard-init.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /home/lenovodev/Local Sites/findvc/app/public/wp-content/themes/my-listing-child/findvc-dashboard/dashboard-founder.php on line 8
+
+2022-08-26T02:02:50+00:00 CRITICAL require_once(): Failed opening required '/templates/founder/dashboard-init.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /home/lenovodev/Local Sites/findvc/app/public/wp-content/themes/my-listing-child/findvc-dashboard/dashboard-founder.php on line 8
+
+2022-08-26T02:03:19+00:00 CRITICAL require_once(): Failed opening required '/templates/founder/dashboard-init.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /home/lenovodev/Local Sites/findvc/app/public/wp-content/themes/my-listing-child/findvc-dashboard/dashboard-founder.php on line 8
+
+2022-08-26T02:03:24+00:00 CRITICAL require_once(): Failed opening required '/templates/founder/dashboard-init.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /home/lenovodev/Local Sites/findvc/app/public/wp-content/themes/my-listing-child/findvc-dashboard/dashboard-founder.php on line 8
+
+2022-08-26T03:35:19+00:00 CRITICAL require_once(): Failed opening required '/templates/founder/dashboard-init.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /home/lenovodev/Local Sites/findvc/app/public/wp-content/themes/my-listing-child/findvc-dashboard/dashboard-founder.php on line 8
+
+2022-08-26T03:37:29+00:00 CRITICAL require_once(): Failed opening required 'http://localhost:10028/wp-content/themes/my-listing-child/findvc-dashboard/templates/founder/dashboard-init.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /home/lenovodev/Local Sites/findvc/app/public/wp-content/themes/my-listing-child/findvc-dashboard/dashboard-founder.php on line 8
+
+2022-08-26T03:41:07+00:00 CRITICAL require_once(): Failed opening required '../findvc-dashboard/templates/founder/dashboard-init.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /home/lenovodev/Local Sites/findvc/app/public/wp-content/themes/my-listing-child/findvc-dashboard/dashboard-founder.php on line 8
+
+2022-08-26T03:42:29+00:00 CRITICAL require_once(): Failed opening required 'http://localhost:10028/wp-content/themes/my-listing-child../findvc-dashboard/templates/founder/dashboard-init.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /home/lenovodev/Local Sites/findvc/app/public/wp-content/themes/my-listing-child/findvc-dashboard/dashboard-founder.php on line 8
+
+2022-08-26T03:43:34+00:00 CRITICAL require_once(): Failed opening required 'http://localhost:10028/wp-content/themes/my-listing-child../findvc-dashboard/templates/founder/dashboard-init.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /home/lenovodev/Local Sites/findvc/app/public/wp-content/themes/my-listing-child/findvc-dashboard/dashboard-founder.php on line 8
+
+2022-08-26T03:43:39+00:00 CRITICAL require_once(): Failed opening required 'http://localhost:10028/wp-content/themes/my-listing-child../findvc-dashboard/templates/founder/dashboard-init.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /home/lenovodev/Local Sites/findvc/app/public/wp-content/themes/my-listing-child/findvc-dashboard/dashboard-founder.php on line 8
+
+2022-08-26T03:44:06+00:00 CRITICAL require_once(): Failed opening required 'http://localhost:10028/wp-content/themes/my-listing-child../findvc-dashboard/templates/founder/dashboard-init.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /home/lenovodev/Local Sites/findvc/app/public/wp-content/themes/my-listing-child/findvc-dashboard/dashboard-founder.php on line 8
+
+2022-08-26T03:44:32+00:00 CRITICAL require_once(): Failed opening required 'http://localhost:10028/wp-content/themes/my-listing/findvc-dashboard/templates/founder/dashboard-init.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /home/lenovodev/Local Sites/findvc/app/public/wp-content/themes/my-listing-child/findvc-dashboard/dashboard-founder.php on line 8
+
+2022-08-26T03:46:35+00:00 CRITICAL require(): Failed opening required 'http://localhost:10028/wp-content/themes/my-listing./templates/founder/dashboard-init.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /home/lenovodev/Local Sites/findvc/app/public/wp-content/themes/my-listing-child/findvc-dashboard/dashboard-founder.php on line 10
+
+2022-08-26T04:14:50+00:00 CRITICAL require_once(): Failed opening required 'http://localhost:10028/wp-content/themes/my-listing-child../findvc-dashboard/templates/founder/dashboard-init.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /home/lenovodev/Local Sites/findvc/app/public/wp-content/themes/my-listing-child/findvc-dashboard/dashboard-founder.php on line 10
+
+2022-08-26T04:35:35+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function require_all(), 0 passed in /home/lenovodev/Local Sites/findvc/app/public/wp-content/themes/my-listing-child/functions.php on line 28 and exactly 1 expected in /home/lenovodev/Local Sites/findvc/app/public/wp-content/themes/my-listing-child/functions.php:23
+Stack trace:
+#0 /home/lenovodev/Local Sites/findvc/app/public/wp-content/themes/my-listing-child/functions.php(28): require_all()
+#1 /home/lenovodev/Local Sites/findvc/app/public/wp-settings.php(566): include('/home/lenovodev...')
+#2 /home/lenovodev/Local Sites/findvc/app/public/wp-config.php(91): require_once('/home/lenovodev...')
+#3 /home/lenovodev/Local Sites/findvc/app/public/wp-load.php(50): require_once('/home/lenovodev...')
+#4 /home/lenovodev/Local Sites/findvc/app/public/wp-blog-header.php(13): require_once('/home/lenovodev...')
+#5 /home/lenovodev/Local Sites/findvc/app/public/index.php(17): require('/home/lenovodev...')
+#6 {main}
+  thrown in /home/lenovodev/Local Sites/findvc/app/public/wp-content/themes/my-listing-child/functions.php on line 23
+
+2022-08-26T04:35:35+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function require_all(), 0 passed in /home/lenovodev/Local Sites/findvc/app/public/wp-content/themes/my-listing-child/functions.php on line 28 and exactly 1 expected in /home/lenovodev/Local Sites/findvc/app/public/wp-content/themes/my-listing-child/functions.php:23
+Stack trace:
+#0 /home/lenovodev/Local Sites/findvc/app/public/wp-content/themes/my-listing-child/functions.php(28): require_all()
+#1 /home/lenovodev/Local Sites/findvc/app/public/wp-settings.php(566): include('/home/lenovodev...')
+#2 /home/lenovodev/Local Sites/findvc/app/public/wp-config.php(91): require_once('/home/lenovodev...')
+#3 /home/lenovodev/Local Sites/findvc/app/public/wp-load.php(50): require_once('/home/lenovodev...')
+#4 /home/lenovodev/Local Sites/findvc/app/public/wp-blog-header.php(13): require_once('/home/lenovodev...')
+#5 /home/lenovodev/Local Sites/findvc/app/public/index.php(17): require('/home/lenovodev...')
+#6 {main}
+  thrown in /home/lenovodev/Local Sites/findvc/app/public/wp-content/themes/my-listing-child/functions.php on line 23
+
+2022-08-26T04:38:42+00:00 CRITICAL syntax error, unexpected '}' in /home/lenovodev/Local Sites/findvc/app/public/wp-content/themes/my-listing-child/functions.php on line 28
+
+2022-08-26T04:38:43+00:00 CRITICAL syntax error, unexpected '}' in /home/lenovodev/Local Sites/findvc/app/public/wp-content/themes/my-listing-child/functions.php on line 28
+
+2022-08-26T05:17:38+00:00 CRITICAL require_once(): Failed opening required 'navbar.css' (include_path='.:/usr/share/php:/www/wp-content/pear') in /home/lenovodev/Local Sites/findvc/app/public/wp-content/themes/my-listing-child/functions.php on line 28
+
+2022-08-26T05:17:39+00:00 CRITICAL require_once(): Failed opening required 'navbar.css' (include_path='.:/usr/share/php:/www/wp-content/pear') in /home/lenovodev/Local Sites/findvc/app/public/wp-content/themes/my-listing-child/functions.php on line 28
+
+2022-08-26T05:18:35+00:00 CRITICAL require_once(): Failed opening required '/home/lenovodev/Local Sites/findvc/app/public/wp-content/themes/my-listing-child/findvc-dashboard/src/cssnavbar.css' (include_path='.:/usr/share/php:/www/wp-content/pear') in /home/lenovodev/Local Sites/findvc/app/public/wp-content/themes/my-listing-child/functions.php on line 28
+
+2022-08-26T05:18:35+00:00 CRITICAL require_once(): Failed opening required '/home/lenovodev/Local Sites/findvc/app/public/wp-content/themes/my-listing-child/findvc-dashboard/src/cssnavbar.css' (include_path='.:/usr/share/php:/www/wp-content/pear') in /home/lenovodev/Local Sites/findvc/app/public/wp-content/themes/my-listing-child/functions.php on line 28
+
+2022-08-26T05:21:57+00:00 CRITICAL syntax error, unexpected 'require_all' (T_STRING), expecting '(' in /home/lenovodev/Local Sites/findvc/app/public/wp-content/themes/my-listing-child/functions.php on line 26
+
+2022-08-26T05:21:57+00:00 CRITICAL syntax error, unexpected 'require_all' (T_STRING), expecting '(' in /home/lenovodev/Local Sites/findvc/app/public/wp-content/themes/my-listing-child/functions.php on line 26
+
+2022-08-26T05:38:04+00:00 CRITICAL syntax error, unexpected 'function' (T_FUNCTION) in /home/lenovodev/Local Sites/findvc/app/public/wp-content/themes/my-listing-child/functions.php on line 26
+
+2022-08-26T05:38:04+00:00 CRITICAL syntax error, unexpected 'function' (T_FUNCTION) in /home/lenovodev/Local Sites/findvc/app/public/wp-content/themes/my-listing-child/functions.php on line 26
+
+2022-08-26T05:38:21+00:00 CRITICAL syntax error, unexpected 'require_all' (T_STRING) in /home/lenovodev/Local Sites/findvc/app/public/wp-content/themes/my-listing-child/functions.php on line 37
+
+2022-08-26T05:38:22+00:00 CRITICAL syntax error, unexpected 'require_all' (T_STRING) in /home/lenovodev/Local Sites/findvc/app/public/wp-content/themes/my-listing-child/functions.php on line 37
+

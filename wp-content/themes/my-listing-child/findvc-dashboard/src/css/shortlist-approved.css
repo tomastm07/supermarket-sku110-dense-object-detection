@@ -1,0 +1,22 @@
+.fc-shortlist__approved--inner {
+  width: 100%;
+}
+
+.fc-shortlist__approved--inner__item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 5px 0;
+  border-bottom: 1px solid #eee;
+}
+
+.fc-shortlist__name--heading {
+  display: flex;
+  justify-content: space-between;
+}
+
+.fc-shortlist__name--heading h4 {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 24px;
+}

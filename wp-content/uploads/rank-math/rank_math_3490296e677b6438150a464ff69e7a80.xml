@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//find-vc.atomicdev.xyz/main-sitemap.xsl"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>http://find-vc.atomicdev.xyz/post-category/essential-venture-capital-knowledge/</loc>
+	</url>
+	<url>
+		<loc>http://find-vc.atomicdev.xyz/post-category/fundraising-top-tips/</loc>
+	</url>
+	<url>
+		<loc>http://find-vc.atomicdev.xyz/post-category/churn/</loc>
+	</url>
+	<url>
+		<loc>http://find-vc.atomicdev.xyz/post-category/churn/case-studies/</loc>
+	</url>
+	<url>
+		<loc>http://find-vc.atomicdev.xyz/post-category/new-category/</loc>
+	</url>
+	<url>
+		<loc>http://find-vc.atomicdev.xyz/post-category/new-category/sub-category/</loc>
+	</url>
+	<url>
+		<loc>http://find-vc.atomicdev.xyz/post-category/churn/customer-onboarding/</loc>
+	</url>
+</urlset>

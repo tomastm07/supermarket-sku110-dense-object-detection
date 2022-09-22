@@ -1,0 +1,40 @@
+
+.title{
+    color:#000000;
+    margin-left: .2rem;
+}
+#security-form{
+    margin-top: 2rem;
+}
+#security-form hr{
+    width: 82%;
+    float: left;
+    border-top: 1px solid #D9D9D9;
+}
+#security-form input{
+    padding-left: 2rem;
+    background-color: #F6F7FB;
+    border-radius: 5px;
+    border: none;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+#security-form label{
+    color:#333333;
+    min-width: 40%;
+    margin-bottom:1.5rem;
+    margin-right: 2rem;
+    font-weight: bold;
+}
+#security-form button{
+    margin-top: 2rem;
+    width: 20%;
+    background-color: #000;
+    border-radius: 5px;
+    color: #fff;
+    padding: 1rem 3rem;
+}
+#security-form input::placeholder{
+    padding-left: 2rem;
+    font-weight: normal;
+}

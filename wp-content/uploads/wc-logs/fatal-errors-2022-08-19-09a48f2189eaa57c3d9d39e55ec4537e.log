@@ -1,0 +1,21 @@
+2022-08-19T04:00:16+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in /home/storm/sites/find-vc-atomicdev-xyz/public/wp-content/plugins/elementor/includes/base/controls-stack.php on line 1178
+
+2022-08-19T04:01:47+00:00 CRITICAL Uncaught TypeError: Argument 2 passed to Elementor\TemplateLibrary\Source_Local::on_save_post() must be an instance of WP_Post, instance of stdClass given, called in /home/storm/sites/find-vc-atomicdev-xyz/public/wp-includes/class-wp-hook.php on line 309 and defined in /home/storm/sites/find-vc-atomicdev-xyz/public/wp-content/plugins/elementor/includes/template-library/sources/local.php:1053
+Stack trace:
+#0 /home/storm/sites/find-vc-atomicdev-xyz/public/wp-includes/class-wp-hook.php(309): Elementor\TemplateLibrary\Source_Local->on_save_post()
+#1 /home/storm/sites/find-vc-atomicdev-xyz/public/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#2 /home/storm/sites/find-vc-atomicdev-xyz/public/wp-includes/plugin.php(476): WP_Hook->do_action()
+#3 /home/storm/sites/find-vc-atomicdev-xyz/public/wp-includes/post.php(4673): do_action()
+#4 /home/storm/sites/find-vc-atomicdev-xyz/public/wp-includes/post.php(4775): wp_insert_post()
+#5 /home/storm/sites/find-vc-atomicdev-xyz/public/wp-content/plugins/elementor/ in /home/storm/sites/find-vc-atomicdev-xyz/public/wp-content/plugins/elementor/includes/template-library/sources/local.php on line 1053
+
+2022-08-19T04:01:53+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in /home/storm/sites/find-vc-atomicdev-xyz/public/wp-includes/wp-db.php on line 2135
+
+2022-08-19T04:21:00+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in /home/storm/sites/find-vc-atomicdev-xyz/public/wp-content/plugins/elementor/includes/base/widget-base.php on line 183
+
+2022-08-19T04:26:36+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in /home/storm/sites/find-vc-atomicdev-xyz/public/wp-content/plugins/elementor/includes/base/controls-stack.php on line 491
+
+2022-08-19T05:00:11+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in /home/storm/sites/find-vc-atomicdev-xyz/public/wp-content/plugins/elementor/includes/controls/base-multiple.php on line 59
+
+2022-08-19T16:32:28+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in /home/storm/sites/find-vc-atomicdev-xyz/public/wp-content/plugins/elementor/includes/base/widget-base.php on line 188
+

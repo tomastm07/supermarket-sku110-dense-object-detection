@@ -1,0 +1,14 @@
+2022-08-08T22:28:00+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Elementor\Controls_Stack::sanitize_settings() must be of the type array, null given, called in /home/storm/sites/find-vc-atomicdev-xyz/public/wp-content/plugins/elementor/includes/base/controls-stack.php on line 1105 and defined in /home/storm/sites/find-vc-atomicdev-xyz/public/wp-content/plugins/elementor/includes/base/controls-stack.php:2367
+Stack trace:
+#0 /home/storm/sites/find-vc-atomicdev-xyz/public/wp-content/plugins/elementor/includes/base/controls-stack.php(1105): Elementor\Controls_Stack->sanitize_settings()
+#1 /home/storm/sites/find-vc-atomicdev-xyz/public/wp-content/plugins/elementor/includes/base/controls-stack.php(2116): Elementor\Controls_Stack->get_data()
+#2 /home/storm/sites/find-vc-atomicdev-xyz/public/wp-content/plugins/elementor/core/base/base-object.php(142): Elementor\Controls_Stack->get_init_settings()
+#3 /home/storm/sites/find-vc-atomicdev-xyz/public/wp-content/plugins/elementor/core/base/base-object.php(40): Elementor\Core\Base\Base_Object->ens in /home/storm/sites/find-vc-atomicdev-xyz/public/wp-content/plugins/elementor/includes/base/controls-stack.php on line 2367
+
+2022-08-08T22:28:05+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Elementor\Controls_Stack::sanitize_settings() must be of the type array, null given, called in /home/storm/sites/find-vc-atomicdev-xyz/public/wp-content/plugins/elementor/includes/base/controls-stack.php on line 1105 and defined in /home/storm/sites/find-vc-atomicdev-xyz/public/wp-content/plugins/elementor/includes/base/controls-stack.php:2367
+Stack trace:
+#0 /home/storm/sites/find-vc-atomicdev-xyz/public/wp-content/plugins/elementor/includes/base/controls-stack.php(1105): Elementor\Controls_Stack->sanitize_settings()
+#1 /home/storm/sites/find-vc-atomicdev-xyz/public/wp-content/plugins/elementor/includes/base/controls-stack.php(2116): Elementor\Controls_Stack->get_data()
+#2 /home/storm/sites/find-vc-atomicdev-xyz/public/wp-content/plugins/elementor/core/base/base-object.php(142): Elementor\Controls_Stack->get_init_settings()
+#3 /home/storm/sites/find-vc-atomicdev-xyz/public/wp-content/plugins/elementor/core/base/base-object.php(40): Elementor\Core\Base\Base_Object->ens in /home/storm/sites/find-vc-atomicdev-xyz/public/wp-content/plugins/elementor/includes/base/controls-stack.php on line 2367
+

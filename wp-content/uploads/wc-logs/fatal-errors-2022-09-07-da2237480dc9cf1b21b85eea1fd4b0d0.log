@@ -1,0 +1,12 @@
+2022-09-07T18:38:09+00:00 CRITICAL Uncaught Error: Call to undefined function et_stylesheet_directory_uri() in C:\xampp\htdocs\findvc-dashboard\wp-content\themes\my-listing-child\findvc-dashboard\templates\founder\dashboard-founder__edit_profile.php:15
+Stack trace:
+#0 C:\xampp\htdocs\findvc-dashboard\wp-includes\template.php(772): require()
+#1 C:\xampp\htdocs\findvc-dashboard\wp-includes\template.php(716): load_template('C:\\xampp\\htdocs...', false, Array)
+#2 C:\xampp\htdocs\findvc-dashboard\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#3 C:\xampp\htdocs\findvc-dashboard\wp-content\themes\my-listing-child\findvc-dashboard\dashboard-profile.php(9): get_template_part('findvc-dashboar...')
+#4 C:\xampp\htdocs\findvc-dashboard\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\findvc-dashboard\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\findvc-dashboard\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\findvc-dashboard\wp-content\themes\my-listing-child\findvc-dashboard\templates\founder\dashboard-founder__edit_profile.php on line 15
+

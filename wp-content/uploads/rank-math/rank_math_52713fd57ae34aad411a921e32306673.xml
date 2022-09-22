@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//find-vc.atomicdev.xyz/main-sitemap.xsl"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>http://find-vc.atomicdev.xyz/listings/</loc>
+		<lastmod>2022-08-23T21:58:06+00:00</lastmod>
+	</url>
+	<url>
+		<loc>http://find-vc.atomicdev.xyz/listing/4bio-capital/</loc>
+		<lastmod>2022-08-23T21:58:06+00:00</lastmod>
+	</url>
+	<url>
+		<loc>http://find-vc.atomicdev.xyz/listing/y-company/</loc>
+		<lastmod>2022-08-23T02:56:46+00:00</lastmod>
+	</url>
+	<url>
+		<loc>http://find-vc.atomicdev.xyz/listing/y-company-2/</loc>
+		<lastmod>2022-08-23T02:56:30+00:00</lastmod>
+	</url>
+	<url>
+		<loc>http://find-vc.atomicdev.xyz/listing/y-company-3/</loc>
+		<lastmod>2022-08-23T02:56:18+00:00</lastmod>
+	</url>
+	<url>
+		<loc>http://find-vc.atomicdev.xyz/listing/monzo-2/</loc>
+		<lastmod>2022-08-14T19:32:17+00:00</lastmod>
+	</url>
+	<url>
+		<loc>http://find-vc.atomicdev.xyz/listing/adevinta-ventures-2/</loc>
+		<lastmod>2022-08-14T19:31:48+00:00</lastmod>
+	</url>
+	<url>
+		<loc>http://find-vc.atomicdev.xyz/listing/monzo-3/</loc>
+		<lastmod>2022-08-14T19:27:51+00:00</lastmod>
+	</url>
+	<url>
+		<loc>http://find-vc.atomicdev.xyz/listing/adevinta-ventures/</loc>
+		<lastmod>2022-08-08T18:18:09+00:00</lastmod>
+	</url>
+	<url>
+		<loc>http://find-vc.atomicdev.xyz/listing/monzo/</loc>
+		<lastmod>2022-08-08T18:17:58+00:00</lastmod>
+	</url>
+	<url>
+		<loc>http://find-vc.atomicdev.xyz/listing/uber/</loc>
+		<lastmod>2022-08-08T16:47:35+00:00</lastmod>
+	</url>
+</urlset>

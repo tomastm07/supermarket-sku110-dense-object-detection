@@ -1,0 +1,110 @@
+.base-card{
+    border-radius: 10px; 
+    margin-top: 5vh; 
+    margin-bottom: 5vh; 
+    min-height: 50vh; 
+    display: flex; 
+    justify-content: center; 
+    box-shadow: 2px 2px 10px rgba(255,255,255,0.1); 
+    background-color: #fff; 
+    padding: 6rem;
+    padding-left: 1rem!important;
+    padding-right: 1rem!important;
+}
+.content{
+    width: 100%; 
+    display: flex; 
+    justify-content: center; 
+    align-items: center;
+}
+.wd-100{
+    width: 100%; 
+}
+.left-side{
+    width: 20%; 
+    float: left;
+    padding-left: 2rem;
+    min-height: 50vh; 
+}
+.right-side{
+    width: 80%; 
+    float: right;
+    min-height: 50vh;
+    padding-left: 6rem;
+    border-left: 1px solid #D9D9D9;
+}
+.profile-pic{
+    width: 90px; 
+    height: 90px; 
+    border-radius: 50%; 
+    background-color: #333;
+    float: left;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.main-info-container{
+    margin-top: 2rem;
+    display: flex; 
+    justify-content: flex-start; 
+    align-items: center;
+}
+.first-text-block{
+    margin-left: 3rem;
+}
+
+.first-text-block h5{
+    font-weight: 100;
+}
+#edit-profile{
+    margin-top: 2rem;
+}
+#edit-profile hr{
+    width: 82%;
+    float: left;
+    border-top: 1px solid #D9D9D9;
+}
+#edit-profile input{
+    background-color: #F6F7FB;
+    border-radius: 5px;
+    border: none;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+#edit-profile label{
+    min-width: 40%;
+    margin-right: 2rem;
+    font-weight: bold;
+}
+#edit-profile button{
+    margin-top: 2rem;
+    width: 20%;
+    background-color: #000;
+    border-radius: 5px;
+    color: #fff;
+    padding: 1rem 3rem;
+}
+#edit-profile input::placeholder{
+    padding-left: 2rem;
+    font-weight: normal;
+}
+#nameblock{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+}
+#lkdlogo{
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    width: 20px;
+    height: 20px;
+    padding: 2px;
+    border-radius: 50%;
+    background-color: #007AB9;
+    margin-left: 1rem;
+}
+#lkdlogo img{
+    width: 10px;
+    height: 10px;
+}

@@ -1,0 +1,160 @@
+2022-08-25T04:05:48+00:00 CRITICAL Uncaught Error: Call to a member function get_current_settings() on null in C:\Users\josue\Local Sites\findvc\app\public\wp-content\plugins\elementor\core\responsive\responsive.php:116
+Stack trace:
+#0 [internal function]: Elementor\Core\Responsive\Responsive::Elementor\Core\Responsive\{closure}(Array, 'md')
+#1 C:\Users\josue\Local Sites\findvc\app\public\wp-content\plugins\elementor\core\responsive\responsive.php(122): array_reduce(Array, Object(Closure), Array)
+#2 C:\Users\josue\Local Sites\findvc\app\public\wp-content\plugins\addon-elements-for-elementor-page-builder\inc\bootstrap.php(187): Elementor\Core\Responsive\Responsive::get_breakpoints()
+#3 C:\Users\josue\Local Sites\findvc\app\public\wp-includes\class-wp-hook.php(307): WTS_EAE\Plugin->eae_scripts('')
+#4 C:\Users\josue\Local Sites\findvc\app\public\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#5 C:\Users\josue\Local Sites\findvc\app\public\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#6 C:\Users\josue\Local Sites in C:\Users\josue\Local Sites\findvc\app\public\wp-content\plugins\elementor\core\responsive\responsive.php on line 116
+
+2022-08-25T04:05:49+00:00 CRITICAL Uncaught Error: Call to a member function get_current_settings() on null in C:\Users\josue\Local Sites\findvc\app\public\wp-content\plugins\elementor\core\responsive\responsive.php:116
+Stack trace:
+#0 [internal function]: Elementor\Core\Responsive\Responsive::Elementor\Core\Responsive\{closure}(Array, 'md')
+#1 C:\Users\josue\Local Sites\findvc\app\public\wp-content\plugins\elementor\core\responsive\responsive.php(122): array_reduce(Array, Object(Closure), Array)
+#2 C:\Users\josue\Local Sites\findvc\app\public\wp-content\plugins\addon-elements-for-elementor-page-builder\inc\bootstrap.php(187): Elementor\Core\Responsive\Responsive::get_breakpoints()
+#3 C:\Users\josue\Local Sites\findvc\app\public\wp-includes\class-wp-hook.php(307): WTS_EAE\Plugin->eae_scripts('')
+#4 C:\Users\josue\Local Sites\findvc\app\public\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#5 C:\Users\josue\Local Sites\findvc\app\public\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#6 C:\Users\josue\Local Sites in C:\Users\josue\Local Sites\findvc\app\public\wp-content\plugins\elementor\core\responsive\responsive.php on line 116
+
+2022-08-25T04:06:06+00:00 CRITICAL Uncaught Error: Call to a member function get_current_settings() on null in C:\Users\josue\Local Sites\findvc\app\public\wp-content\plugins\elementor\core\responsive\responsive.php:116
+Stack trace:
+#0 [internal function]: Elementor\Core\Responsive\Responsive::Elementor\Core\Responsive\{closure}(Array, 'md')
+#1 C:\Users\josue\Local Sites\findvc\app\public\wp-content\plugins\elementor\core\responsive\responsive.php(122): array_reduce(Array, Object(Closure), Array)
+#2 C:\Users\josue\Local Sites\findvc\app\public\wp-content\plugins\addon-elements-for-elementor-page-builder\inc\bootstrap.php(187): Elementor\Core\Responsive\Responsive::get_breakpoints()
+#3 C:\Users\josue\Local Sites\findvc\app\public\wp-includes\class-wp-hook.php(307): WTS_EAE\Plugin->eae_scripts('')
+#4 C:\Users\josue\Local Sites\findvc\app\public\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#5 C:\Users\josue\Local Sites\findvc\app\public\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#6 C:\Users\josue\Local Sites in C:\Users\josue\Local Sites\findvc\app\public\wp-content\plugins\elementor\core\responsive\responsive.php on line 116
+
+2022-08-25T04:06:06+00:00 CRITICAL Uncaught Error: Call to a member function get_current_settings() on null in C:\Users\josue\Local Sites\findvc\app\public\wp-content\plugins\elementor\core\responsive\responsive.php:116
+Stack trace:
+#0 [internal function]: Elementor\Core\Responsive\Responsive::Elementor\Core\Responsive\{closure}(Array, 'md')
+#1 C:\Users\josue\Local Sites\findvc\app\public\wp-content\plugins\elementor\core\responsive\responsive.php(122): array_reduce(Array, Object(Closure), Array)
+#2 C:\Users\josue\Local Sites\findvc\app\public\wp-content\plugins\addon-elements-for-elementor-page-builder\inc\bootstrap.php(187): Elementor\Core\Responsive\Responsive::get_breakpoints()
+#3 C:\Users\josue\Local Sites\findvc\app\public\wp-includes\class-wp-hook.php(307): WTS_EAE\Plugin->eae_scripts('')
+#4 C:\Users\josue\Local Sites\findvc\app\public\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#5 C:\Users\josue\Local Sites\findvc\app\public\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#6 C:\Users\josue\Local Sites in C:\Users\josue\Local Sites\findvc\app\public\wp-content\plugins\elementor\core\responsive\responsive.php on line 116
+
+2022-08-25T04:06:07+00:00 CRITICAL Uncaught Error: Call to a member function get_current_settings() on null in C:\Users\josue\Local Sites\findvc\app\public\wp-content\plugins\elementor\core\responsive\responsive.php:116
+Stack trace:
+#0 [internal function]: Elementor\Core\Responsive\Responsive::Elementor\Core\Responsive\{closure}(Array, 'md')
+#1 C:\Users\josue\Local Sites\findvc\app\public\wp-content\plugins\elementor\core\responsive\responsive.php(122): array_reduce(Array, Object(Closure), Array)
+#2 C:\Users\josue\Local Sites\findvc\app\public\wp-content\plugins\addon-elements-for-elementor-page-builder\inc\bootstrap.php(187): Elementor\Core\Responsive\Responsive::get_breakpoints()
+#3 C:\Users\josue\Local Sites\findvc\app\public\wp-includes\class-wp-hook.php(307): WTS_EAE\Plugin->eae_scripts('')
+#4 C:\Users\josue\Local Sites\findvc\app\public\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#5 C:\Users\josue\Local Sites\findvc\app\public\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#6 C:\Users\josue\Local Sites in C:\Users\josue\Local Sites\findvc\app\public\wp-content\plugins\elementor\core\responsive\responsive.php on line 116
+
+2022-08-25T04:06:08+00:00 CRITICAL Uncaught Error: Call to a member function get_current_settings() on null in C:\Users\josue\Local Sites\findvc\app\public\wp-content\plugins\elementor\core\responsive\responsive.php:116
+Stack trace:
+#0 [internal function]: Elementor\Core\Responsive\Responsive::Elementor\Core\Responsive\{closure}(Array, 'md')
+#1 C:\Users\josue\Local Sites\findvc\app\public\wp-content\plugins\elementor\core\responsive\responsive.php(122): array_reduce(Array, Object(Closure), Array)
+#2 C:\Users\josue\Local Sites\findvc\app\public\wp-content\plugins\addon-elements-for-elementor-page-builder\inc\bootstrap.php(187): Elementor\Core\Responsive\Responsive::get_breakpoints()
+#3 C:\Users\josue\Local Sites\findvc\app\public\wp-includes\class-wp-hook.php(307): WTS_EAE\Plugin->eae_scripts('')
+#4 C:\Users\josue\Local Sites\findvc\app\public\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#5 C:\Users\josue\Local Sites\findvc\app\public\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#6 C:\Users\josue\Local Sites in C:\Users\josue\Local Sites\findvc\app\public\wp-content\plugins\elementor\core\responsive\responsive.php on line 116
+
+2022-08-25T04:06:08+00:00 CRITICAL Uncaught Error: Call to a member function get_current_settings() on null in C:\Users\josue\Local Sites\findvc\app\public\wp-content\plugins\elementor\core\responsive\responsive.php:116
+Stack trace:
+#0 [internal function]: Elementor\Core\Responsive\Responsive::Elementor\Core\Responsive\{closure}(Array, 'md')
+#1 C:\Users\josue\Local Sites\findvc\app\public\wp-content\plugins\elementor\core\responsive\responsive.php(122): array_reduce(Array, Object(Closure), Array)
+#2 C:\Users\josue\Local Sites\findvc\app\public\wp-content\plugins\addon-elements-for-elementor-page-builder\inc\bootstrap.php(187): Elementor\Core\Responsive\Responsive::get_breakpoints()
+#3 C:\Users\josue\Local Sites\findvc\app\public\wp-includes\class-wp-hook.php(307): WTS_EAE\Plugin->eae_scripts('')
+#4 C:\Users\josue\Local Sites\findvc\app\public\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#5 C:\Users\josue\Local Sites\findvc\app\public\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#6 C:\Users\josue\Local Sites in C:\Users\josue\Local Sites\findvc\app\public\wp-content\plugins\elementor\core\responsive\responsive.php on line 116
+
+2022-08-25T04:06:09+00:00 CRITICAL Uncaught Error: Call to a member function get_current_settings() on null in C:\Users\josue\Local Sites\findvc\app\public\wp-content\plugins\elementor\core\responsive\responsive.php:116
+Stack trace:
+#0 [internal function]: Elementor\Core\Responsive\Responsive::Elementor\Core\Responsive\{closure}(Array, 'md')
+#1 C:\Users\josue\Local Sites\findvc\app\public\wp-content\plugins\elementor\core\responsive\responsive.php(122): array_reduce(Array, Object(Closure), Array)
+#2 C:\Users\josue\Local Sites\findvc\app\public\wp-content\plugins\addon-elements-for-elementor-page-builder\inc\bootstrap.php(187): Elementor\Core\Responsive\Responsive::get_breakpoints()
+#3 C:\Users\josue\Local Sites\findvc\app\public\wp-includes\class-wp-hook.php(307): WTS_EAE\Plugin->eae_scripts('')
+#4 C:\Users\josue\Local Sites\findvc\app\public\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#5 C:\Users\josue\Local Sites\findvc\app\public\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#6 C:\Users\josue\Local Sites in C:\Users\josue\Local Sites\findvc\app\public\wp-content\plugins\elementor\core\responsive\responsive.php on line 116
+
+2022-08-25T04:08:04+00:00 CRITICAL Uncaught Error: Call to a member function get_current_settings() on null in C:\Users\josue\Local Sites\findvc\app\public\wp-content\plugins\elementor\core\responsive\responsive.php:116
+Stack trace:
+#0 [internal function]: Elementor\Core\Responsive\Responsive::Elementor\Core\Responsive\{closure}(Array, 'md')
+#1 C:\Users\josue\Local Sites\findvc\app\public\wp-content\plugins\elementor\core\responsive\responsive.php(122): array_reduce(Array, Object(Closure), Array)
+#2 C:\Users\josue\Local Sites\findvc\app\public\wp-content\plugins\addon-elements-for-elementor-page-builder\inc\bootstrap.php(187): Elementor\Core\Responsive\Responsive::get_breakpoints()
+#3 C:\Users\josue\Local Sites\findvc\app\public\wp-includes\class-wp-hook.php(307): WTS_EAE\Plugin->eae_scripts('')
+#4 C:\Users\josue\Local Sites\findvc\app\public\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#5 C:\Users\josue\Local Sites\findvc\app\public\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#6 C:\Users\josue\Local Sites in C:\Users\josue\Local Sites\findvc\app\public\wp-content\plugins\elementor\core\responsive\responsive.php on line 116
+
+2022-08-25T04:08:04+00:00 CRITICAL Uncaught Error: Call to a member function get_current_settings() on null in C:\Users\josue\Local Sites\findvc\app\public\wp-content\plugins\elementor\core\responsive\responsive.php:116
+Stack trace:
+#0 [internal function]: Elementor\Core\Responsive\Responsive::Elementor\Core\Responsive\{closure}(Array, 'md')
+#1 C:\Users\josue\Local Sites\findvc\app\public\wp-content\plugins\elementor\core\responsive\responsive.php(122): array_reduce(Array, Object(Closure), Array)
+#2 C:\Users\josue\Local Sites\findvc\app\public\wp-content\plugins\addon-elements-for-elementor-page-builder\inc\bootstrap.php(187): Elementor\Core\Responsive\Responsive::get_breakpoints()
+#3 C:\Users\josue\Local Sites\findvc\app\public\wp-includes\class-wp-hook.php(307): WTS_EAE\Plugin->eae_scripts('')
+#4 C:\Users\josue\Local Sites\findvc\app\public\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#5 C:\Users\josue\Local Sites\findvc\app\public\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#6 C:\Users\josue\Local Sites in C:\Users\josue\Local Sites\findvc\app\public\wp-content\plugins\elementor\core\responsive\responsive.php on line 116
+
+2022-08-25T04:08:06+00:00 CRITICAL Uncaught Error: Call to a member function get_current_settings() on null in C:\Users\josue\Local Sites\findvc\app\public\wp-content\plugins\elementor\core\responsive\responsive.php:116
+Stack trace:
+#0 [internal function]: Elementor\Core\Responsive\Responsive::Elementor\Core\Responsive\{closure}(Array, 'md')
+#1 C:\Users\josue\Local Sites\findvc\app\public\wp-content\plugins\elementor\core\responsive\responsive.php(122): array_reduce(Array, Object(Closure), Array)
+#2 C:\Users\josue\Local Sites\findvc\app\public\wp-content\plugins\addon-elements-for-elementor-page-builder\inc\bootstrap.php(187): Elementor\Core\Responsive\Responsive::get_breakpoints()
+#3 C:\Users\josue\Local Sites\findvc\app\public\wp-includes\class-wp-hook.php(307): WTS_EAE\Plugin->eae_scripts('')
+#4 C:\Users\josue\Local Sites\findvc\app\public\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#5 C:\Users\josue\Local Sites\findvc\app\public\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#6 C:\Users\josue\Local Sites in C:\Users\josue\Local Sites\findvc\app\public\wp-content\plugins\elementor\core\responsive\responsive.php on line 116
+
+2022-08-25T04:08:07+00:00 CRITICAL Uncaught Error: Call to a member function get_current_settings() on null in C:\Users\josue\Local Sites\findvc\app\public\wp-content\plugins\elementor\core\responsive\responsive.php:116
+Stack trace:
+#0 [internal function]: Elementor\Core\Responsive\Responsive::Elementor\Core\Responsive\{closure}(Array, 'md')
+#1 C:\Users\josue\Local Sites\findvc\app\public\wp-content\plugins\elementor\core\responsive\responsive.php(122): array_reduce(Array, Object(Closure), Array)
+#2 C:\Users\josue\Local Sites\findvc\app\public\wp-content\plugins\addon-elements-for-elementor-page-builder\inc\bootstrap.php(187): Elementor\Core\Responsive\Responsive::get_breakpoints()
+#3 C:\Users\josue\Local Sites\findvc\app\public\wp-includes\class-wp-hook.php(307): WTS_EAE\Plugin->eae_scripts('')
+#4 C:\Users\josue\Local Sites\findvc\app\public\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#5 C:\Users\josue\Local Sites\findvc\app\public\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#6 C:\Users\josue\Local Sites in C:\Users\josue\Local Sites\findvc\app\public\wp-content\plugins\elementor\core\responsive\responsive.php on line 116
+
+2022-08-25T04:08:08+00:00 CRITICAL Uncaught Error: Call to a member function get_current_settings() on null in C:\Users\josue\Local Sites\findvc\app\public\wp-content\plugins\elementor\core\responsive\responsive.php:116
+Stack trace:
+#0 [internal function]: Elementor\Core\Responsive\Responsive::Elementor\Core\Responsive\{closure}(Array, 'md')
+#1 C:\Users\josue\Local Sites\findvc\app\public\wp-content\plugins\elementor\core\responsive\responsive.php(122): array_reduce(Array, Object(Closure), Array)
+#2 C:\Users\josue\Local Sites\findvc\app\public\wp-content\plugins\addon-elements-for-elementor-page-builder\inc\bootstrap.php(187): Elementor\Core\Responsive\Responsive::get_breakpoints()
+#3 C:\Users\josue\Local Sites\findvc\app\public\wp-includes\class-wp-hook.php(307): WTS_EAE\Plugin->eae_scripts('')
+#4 C:\Users\josue\Local Sites\findvc\app\public\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#5 C:\Users\josue\Local Sites\findvc\app\public\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#6 C:\Users\josue\Local Sites in C:\Users\josue\Local Sites\findvc\app\public\wp-content\plugins\elementor\core\responsive\responsive.php on line 116
+
+2022-08-25T04:08:08+00:00 CRITICAL Uncaught Error: Call to a member function get_current_settings() on null in C:\Users\josue\Local Sites\findvc\app\public\wp-content\plugins\elementor\core\responsive\responsive.php:116
+Stack trace:
+#0 [internal function]: Elementor\Core\Responsive\Responsive::Elementor\Core\Responsive\{closure}(Array, 'md')
+#1 C:\Users\josue\Local Sites\findvc\app\public\wp-content\plugins\elementor\core\responsive\responsive.php(122): array_reduce(Array, Object(Closure), Array)
+#2 C:\Users\josue\Local Sites\findvc\app\public\wp-content\plugins\addon-elements-for-elementor-page-builder\inc\bootstrap.php(187): Elementor\Core\Responsive\Responsive::get_breakpoints()
+#3 C:\Users\josue\Local Sites\findvc\app\public\wp-includes\class-wp-hook.php(307): WTS_EAE\Plugin->eae_scripts('')
+#4 C:\Users\josue\Local Sites\findvc\app\public\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#5 C:\Users\josue\Local Sites\findvc\app\public\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#6 C:\Users\josue\Local Sites in C:\Users\josue\Local Sites\findvc\app\public\wp-content\plugins\elementor\core\responsive\responsive.php on line 116
+
+2022-08-25T04:08:09+00:00 CRITICAL Uncaught Error: Call to a member function get_current_settings() on null in C:\Users\josue\Local Sites\findvc\app\public\wp-content\plugins\elementor\core\responsive\responsive.php:116
+Stack trace:
+#0 [internal function]: Elementor\Core\Responsive\Responsive::Elementor\Core\Responsive\{closure}(Array, 'md')
+#1 C:\Users\josue\Local Sites\findvc\app\public\wp-content\plugins\elementor\core\responsive\responsive.php(122): array_reduce(Array, Object(Closure), Array)
+#2 C:\Users\josue\Local Sites\findvc\app\public\wp-content\plugins\addon-elements-for-elementor-page-builder\inc\bootstrap.php(187): Elementor\Core\Responsive\Responsive::get_breakpoints()
+#3 C:\Users\josue\Local Sites\findvc\app\public\wp-includes\class-wp-hook.php(307): WTS_EAE\Plugin->eae_scripts('')
+#4 C:\Users\josue\Local Sites\findvc\app\public\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#5 C:\Users\josue\Local Sites\findvc\app\public\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#6 C:\Users\josue\Local Sites in C:\Users\josue\Local Sites\findvc\app\public\wp-content\plugins\elementor\core\responsive\responsive.php on line 116
+
+2022-08-25T04:08:10+00:00 CRITICAL Uncaught Error: Call to a member function get_current_settings() on null in C:\Users\josue\Local Sites\findvc\app\public\wp-content\plugins\elementor\core\responsive\responsive.php:116
+Stack trace:
+#0 [internal function]: Elementor\Core\Responsive\Responsive::Elementor\Core\Responsive\{closure}(Array, 'md')
+#1 C:\Users\josue\Local Sites\findvc\app\public\wp-content\plugins\elementor\core\responsive\responsive.php(122): array_reduce(Array, Object(Closure), Array)
+#2 C:\Users\josue\Local Sites\findvc\app\public\wp-content\plugins\addon-elements-for-elementor-page-builder\inc\bootstrap.php(187): Elementor\Core\Responsive\Responsive::get_breakpoints()
+#3 C:\Users\josue\Local Sites\findvc\app\public\wp-includes\class-wp-hook.php(307): WTS_EAE\Plugin->eae_scripts('')
+#4 C:\Users\josue\Local Sites\findvc\app\public\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#5 C:\Users\josue\Local Sites\findvc\app\public\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#6 C:\Users\josue\Local Sites in C:\Users\josue\Local Sites\findvc\app\public\wp-content\plugins\elementor\core\responsive\responsive.php on line 116
+

@@ -1,0 +1,30 @@
+2022-08-04T18:08:35+00:00 CRITICAL Uncaught ArgumentCountError: 3 arguments are required, 2 given in /home/storm/sites/find-vc-atomicdev-xyz/public/wp-admin/includes/class-bulk-upgrader-skin.php:156
+Stack trace:
+#0 /home/storm/sites/find-vc-atomicdev-xyz/public/wp-admin/includes/class-bulk-upgrader-skin.php(156): sprintf()
+#1 /home/storm/sites/find-vc-atomicdev-xyz/public/wp-content/themes/my-listing/includes/utils/plugin-activator.php(3638): Bulk_Upgrader_Skin->after()
+#2 /home/storm/sites/find-vc-atomicdev-xyz/public/wp-admin/includes/class-wp-upgrader.php(824): TGMPA_Bulk_Installer_Skin->after()
+#3 /home/storm/sites/find-vc-atomicdev-xyz/public/wp-content/themes/my-listing/includes/utils/plugin-activator.php(3258): WP_Upgrader->run()
+#4 /home/storm/sites/find-vc-atomicdev-xyz/public/wp-content/themes/my-listing/includes/utils/plugin-activator.php(3371): TGMPA_Bulk_Installer->run()
+#5 /home/storm/sites/find-vc-atomicdev-xyz/public/wp-content/themes/my-listing/includes/utils/plugin-activator.php(2977): TGMPA_Bulk_Installer->bulk_install()
+#6 /home/storm/sites/find-vc-atomicdev-xyz/public/wp-content/themes/my-listing/includes/utils/plugin-activator.php(743): TGMPA_List_Table->process_bulk_actions()
+#7 /home/storm/sites/find-vc-atomicdev-xyz/public/wp-includes/class-wp-hook.php(307): TGM_Plugin_Activation->install_plugins_page()
+#8 /home/storm/sites/find-vc-atomicdev-xyz/public/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#9 /home/storm/sites/find-vc-atomicdev-xyz/public/wp-includes/plugin.php(476): WP_Hook->do_action()
+#10 /home/storm/sites/find-vc-atomicdev-xyz/public/wp-admin/admin.php(259): do_action()
+#11 /home/storm/sites/find-vc-atomicdev-xyz/public/wp-admin/themes.php(10): require_once('...')
+#12 {main}
+  thrown in /home/storm/sites/find-vc-atomicdev-xyz/public/wp-admin/includes/class-bulk-upgrader-skin.php on line 156
+
+2022-08-04T18:38:14+00:00 CRITICAL Uncaught Error: Attempt to assign property "translations" on null in /home/storm/sites/find-vc-atomicdev-xyz/public/wp-content/plugins/woocommerce/includes/admin/helper/class-wc-helper-updater.php:81
+Stack trace:
+#0 /home/storm/sites/find-vc-atomicdev-xyz/public/wp-includes/class-wp-hook.php(309): WC_Helper_Updater::transient_update_plugins()
+#1 /home/storm/sites/find-vc-atomicdev-xyz/public/wp-includes/plugin.php(191): WP_Hook->apply_filters()
+#2 /home/storm/sites/find-vc-atomicdev-xyz/public/wp-includes/option.php(1992): apply_filters()
+#3 /home/storm/sites/find-vc-atomicdev-xyz/public/wp-content/plugins/jet-elements/includes/modules/jet-dashboard/inc/license-manager.php(123): set_site_transient()
+#4 /home/storm/sites/find-vc-atomicdev-xyz/public/wp-includes/class-wp-hook.php(307): Jet_Dashboard\License_Manager->jet_license_action()
+#5 /home/storm/sites/find-vc-atomicdev-xyz/public/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#6 /home/storm/sites/find-vc-atomicdev-xyz/public/wp-includes/plugin.php(476): WP_Hook->do_action()
+#7 /home/storm/sites/find-vc-atomicdev-xyz/public/wp-admin/admin-ajax.php(187): do_action()
+#8 {main}
+  thrown in /home/storm/sites/find-vc-atomicdev-xyz/public/wp-content/plugins/woocommerce/includes/admin/helper/class-wc-helper-updater.php on line 81
+

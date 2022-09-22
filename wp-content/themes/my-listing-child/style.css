@@ -1,0 +1,78 @@
+/*
+ Theme Name:   My Listing Child
+ Theme URI:    http://mylisting.27collective.net/my-city/
+ Description:  MyListing Child Theme
+ Author:       27collective
+ Author URI:   https://27collective.net/
+ Template:     my-listing
+ Version:      1.1
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         one-column, two-columns, three-columns, left-sidebar, right-sidebar, grid-layout, custom-menu, custom-logo, featured-images, footer-widgets, full-width-template, sticky-post, theme-options, threaded-comments, translation-ready
+ Text Domain:  my-listing-child
+*/
+
+.initTableFilter{
+	opacity: 0;
+	transition: all 1s ease;
+}
+
+.finishTableFilter{
+	opacity: 1;
+}
+
+.verifiedIcon img{
+	opacity: 0;
+}
+
+.icon-unverified, .icon-verified{
+	opacity: 1 !important;
+}
+
+.verifiedIcon{
+	margin-left: -20px;
+}
+
+.verifiedIconModal{
+	position: absolute;
+	right: -5px;
+	bottom: -5px;
+}
+
+.icon-unverified{
+	filter: grayscale(100%);
+}
+
+.slick-next-custom,
+.slick-prev-custom{
+	position: absolute;
+    top: 48%;
+    border-radius: 50px;
+    width: 30px;
+    height: 30px;
+    background-color: black;
+    color: white;
+	font-size:20px;
+	margin: 0;
+	padding: 0;
+	z-index: 20;
+	border: 0;
+}
+
+.slick-prev-custom{
+	left: -40px;
+}
+
+.slick-next-custom{
+	right: -30px;
+}
+
+#listingGridRight .slick-list.draggable{
+	overflow: visible;
+}
+
+@media screen and (max-width: 1201px){
+	#listingGridRight .slick-track, #listingGridRight .jet-listing-grid__item{
+		width: 100% !important;
+	}
+}

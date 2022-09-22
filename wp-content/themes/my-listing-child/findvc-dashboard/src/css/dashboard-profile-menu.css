@@ -1,0 +1,22 @@
+#dashboard-menu a{
+    width: 100%;
+    padding: 2rem 1rem;
+    color: #666;
+    font-weight: bold;
+}
+
+#dashboard-menu li{
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    max-width: 90%;
+}
+
+.selected{
+    background-color: #f3f3f3;
+    border-left: 3px solid #E53E52;
+}
+.selected a{
+    color: #000!important;
+}

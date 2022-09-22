@@ -1,0 +1,10 @@
+2022-09-08T03:51:53+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function show_admin_bar(), 0 passed in /home/lenovodev/Local Sites/findvc/app/public/wp-content/themes/my-listing-child/functions.php on line 128 and exactly 1 expected in /home/lenovodev/Local Sites/findvc/app/public/wp-includes/admin-bar.php:1234
+Stack trace:
+#0 /home/lenovodev/Local Sites/findvc/app/public/wp-content/themes/my-listing-child/functions.php(128): show_admin_bar()
+#1 /home/lenovodev/Local Sites/findvc/app/public/wp-includes/class-wp-hook.php(307): {closure}('')
+#2 /home/lenovodev/Local Sites/findvc/app/public/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#3 /home/lenovodev/Local Sites/findvc/app/public/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#4 /home/lenovodev/Local Sites/findvc/app/public/wp-settings.php(598): do_action('init')
+#5 /home/lenovodev/Local Sites/findvc/app/public/wp-config.php(91): require_once('/home/lenovodev...')
+#6 /home/lenovodev/Local Sites/findvc/app/public/wp-load.php(50): require_o in /home/lenovodev/Local Sites/findvc/app/public/wp-includes/admin-bar.php on line 1234
+

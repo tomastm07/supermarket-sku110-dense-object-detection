@@ -1,0 +1,90 @@
+2022-08-09T10:49:42+00:00 CRITICAL Uncaught Error: Call to undefined function MyListing\Ext\Advanced_Custom_Fields\acf_add_options_sub_page() in /home/storm/sites/find-vc-atomicdev-xyz/public/wp-content/themes/my-listing/includes/extensions/advanced-custom-fields/advanced-custom-fields.php:62
+Stack trace:
+#0 /home/storm/sites/find-vc-atomicdev-xyz/public/wp-includes/class-wp-hook.php(307): MyListing\Ext\Advanced_Custom_Fields\Advanced_Custom_Fields->add_theme_options_page()
+#1 /home/storm/sites/find-vc-atomicdev-xyz/public/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#2 /home/storm/sites/find-vc-atomicdev-xyz/public/wp-includes/plugin.php(476): WP_Hook->do_action()
+#3 /home/storm/sites/find-vc-atomicdev-xyz/public/wp-content/themes/my-listing/includes/init.php(65): do_action()
+#4 /home/storm/sites/find-vc-atomicdev-xyz/public/wp-content/themes/my-listing/includes/autoload.php(40): require_once('/home/storm/sit...')
+#5 /home/storm/sites/find-vc-atomicdev-xyz/public/wp-content/themes/my-listing/functions.php(26): require_once('/h in /home/storm/sites/find-vc-atomicdev-xyz/public/wp-content/themes/my-listing/includes/extensions/advanced-custom-fields/advanced-custom-fields.php on line 62
+
+2022-08-09T10:49:43+00:00 CRITICAL Uncaught Error: Call to undefined function MyListing\Ext\Advanced_Custom_Fields\acf_add_options_sub_page() in /home/storm/sites/find-vc-atomicdev-xyz/public/wp-content/themes/my-listing/includes/extensions/advanced-custom-fields/advanced-custom-fields.php:62
+Stack trace:
+#0 /home/storm/sites/find-vc-atomicdev-xyz/public/wp-includes/class-wp-hook.php(307): MyListing\Ext\Advanced_Custom_Fields\Advanced_Custom_Fields->add_theme_options_page()
+#1 /home/storm/sites/find-vc-atomicdev-xyz/public/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#2 /home/storm/sites/find-vc-atomicdev-xyz/public/wp-includes/plugin.php(476): WP_Hook->do_action()
+#3 /home/storm/sites/find-vc-atomicdev-xyz/public/wp-content/themes/my-listing/includes/init.php(65): do_action()
+#4 /home/storm/sites/find-vc-atomicdev-xyz/public/wp-content/themes/my-listing/includes/autoload.php(40): require_once('/home/storm/sit...')
+#5 /home/storm/sites/find-vc-atomicdev-xyz/public/wp-content/themes/my-listing/functions.php(26): require_once('/h in /home/storm/sites/find-vc-atomicdev-xyz/public/wp-content/themes/my-listing/includes/extensions/advanced-custom-fields/advanced-custom-fields.php on line 62
+
+2022-08-09T10:49:55+00:00 CRITICAL Uncaught Error: Call to undefined function MyListing\Ext\Advanced_Custom_Fields\acf_add_options_sub_page() in /home/storm/sites/find-vc-atomicdev-xyz/public/wp-content/themes/my-listing/includes/extensions/advanced-custom-fields/advanced-custom-fields.php:62
+Stack trace:
+#0 /home/storm/sites/find-vc-atomicdev-xyz/public/wp-includes/class-wp-hook.php(307): MyListing\Ext\Advanced_Custom_Fields\Advanced_Custom_Fields->add_theme_options_page()
+#1 /home/storm/sites/find-vc-atomicdev-xyz/public/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#2 /home/storm/sites/find-vc-atomicdev-xyz/public/wp-includes/plugin.php(476): WP_Hook->do_action()
+#3 /home/storm/sites/find-vc-atomicdev-xyz/public/wp-content/themes/my-listing/includes/init.php(65): do_action()
+#4 /home/storm/sites/find-vc-atomicdev-xyz/public/wp-content/themes/my-listing/includes/autoload.php(40): require_once('/home/storm/sit...')
+#5 /home/storm/sites/find-vc-atomicdev-xyz/public/wp-content/themes/my-listing/functions.php(26): require_once('/h in /home/storm/sites/find-vc-atomicdev-xyz/public/wp-content/themes/my-listing/includes/extensions/advanced-custom-fields/advanced-custom-fields.php on line 62
+
+2022-08-09T10:50:05+00:00 CRITICAL Uncaught Error: Call to undefined function MyListing\Ext\Advanced_Custom_Fields\acf_add_options_sub_page() in /home/storm/sites/find-vc-atomicdev-xyz/public/wp-content/themes/my-listing/includes/extensions/advanced-custom-fields/advanced-custom-fields.php:62
+Stack trace:
+#0 /home/storm/sites/find-vc-atomicdev-xyz/public/wp-includes/class-wp-hook.php(307): MyListing\Ext\Advanced_Custom_Fields\Advanced_Custom_Fields->add_theme_options_page()
+#1 /home/storm/sites/find-vc-atomicdev-xyz/public/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#2 /home/storm/sites/find-vc-atomicdev-xyz/public/wp-includes/plugin.php(476): WP_Hook->do_action()
+#3 /home/storm/sites/find-vc-atomicdev-xyz/public/wp-content/themes/my-listing/includes/init.php(65): do_action()
+#4 /home/storm/sites/find-vc-atomicdev-xyz/public/wp-content/themes/my-listing/includes/autoload.php(40): require_once('/home/storm/sit...')
+#5 /home/storm/sites/find-vc-atomicdev-xyz/public/wp-content/themes/my-listing/functions.php(26): require_once('/h in /home/storm/sites/find-vc-atomicdev-xyz/public/wp-content/themes/my-listing/includes/extensions/advanced-custom-fields/advanced-custom-fields.php on line 62
+
+2022-08-09T10:50:46+00:00 CRITICAL Uncaught Error: Call to undefined function MyListing\Ext\Advanced_Custom_Fields\acf_add_options_sub_page() in /home/storm/sites/find-vc-atomicdev-xyz/public/wp-content/themes/my-listing/includes/extensions/advanced-custom-fields/advanced-custom-fields.php:62
+Stack trace:
+#0 /home/storm/sites/find-vc-atomicdev-xyz/public/wp-includes/class-wp-hook.php(307): MyListing\Ext\Advanced_Custom_Fields\Advanced_Custom_Fields->add_theme_options_page()
+#1 /home/storm/sites/find-vc-atomicdev-xyz/public/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#2 /home/storm/sites/find-vc-atomicdev-xyz/public/wp-includes/plugin.php(476): WP_Hook->do_action()
+#3 /home/storm/sites/find-vc-atomicdev-xyz/public/wp-content/themes/my-listing/includes/init.php(65): do_action()
+#4 /home/storm/sites/find-vc-atomicdev-xyz/public/wp-content/themes/my-listing/includes/autoload.php(40): require_once('/home/storm/sit...')
+#5 /home/storm/sites/find-vc-atomicdev-xyz/public/wp-content/themes/my-listing/functions.php(26): require_once('/h in /home/storm/sites/find-vc-atomicdev-xyz/public/wp-content/themes/my-listing/includes/extensions/advanced-custom-fields/advanced-custom-fields.php on line 62
+
+2022-08-09T10:50:47+00:00 CRITICAL Uncaught Error: Call to undefined function MyListing\Ext\Advanced_Custom_Fields\acf_add_options_sub_page() in /home/storm/sites/find-vc-atomicdev-xyz/public/wp-content/themes/my-listing/includes/extensions/advanced-custom-fields/advanced-custom-fields.php:62
+Stack trace:
+#0 /home/storm/sites/find-vc-atomicdev-xyz/public/wp-includes/class-wp-hook.php(307): MyListing\Ext\Advanced_Custom_Fields\Advanced_Custom_Fields->add_theme_options_page()
+#1 /home/storm/sites/find-vc-atomicdev-xyz/public/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#2 /home/storm/sites/find-vc-atomicdev-xyz/public/wp-includes/plugin.php(476): WP_Hook->do_action()
+#3 /home/storm/sites/find-vc-atomicdev-xyz/public/wp-content/themes/my-listing/includes/init.php(65): do_action()
+#4 /home/storm/sites/find-vc-atomicdev-xyz/public/wp-content/themes/my-listing/includes/autoload.php(40): require_once('/home/storm/sit...')
+#5 /home/storm/sites/find-vc-atomicdev-xyz/public/wp-content/themes/my-listing/functions.php(26): require_once('/h in /home/storm/sites/find-vc-atomicdev-xyz/public/wp-content/themes/my-listing/includes/extensions/advanced-custom-fields/advanced-custom-fields.php on line 62
+
+2022-08-09T10:50:47+00:00 CRITICAL Uncaught Error: Call to undefined function MyListing\Ext\Advanced_Custom_Fields\acf_add_options_sub_page() in /home/storm/sites/find-vc-atomicdev-xyz/public/wp-content/themes/my-listing/includes/extensions/advanced-custom-fields/advanced-custom-fields.php:62
+Stack trace:
+#0 /home/storm/sites/find-vc-atomicdev-xyz/public/wp-includes/class-wp-hook.php(307): MyListing\Ext\Advanced_Custom_Fields\Advanced_Custom_Fields->add_theme_options_page()
+#1 /home/storm/sites/find-vc-atomicdev-xyz/public/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#2 /home/storm/sites/find-vc-atomicdev-xyz/public/wp-includes/plugin.php(476): WP_Hook->do_action()
+#3 /home/storm/sites/find-vc-atomicdev-xyz/public/wp-content/themes/my-listing/includes/init.php(65): do_action()
+#4 /home/storm/sites/find-vc-atomicdev-xyz/public/wp-content/themes/my-listing/includes/autoload.php(40): require_once('/home/storm/sit...')
+#5 /home/storm/sites/find-vc-atomicdev-xyz/public/wp-content/themes/my-listing/functions.php(26): require_once('/h in /home/storm/sites/find-vc-atomicdev-xyz/public/wp-content/themes/my-listing/includes/extensions/advanced-custom-fields/advanced-custom-fields.php on line 62
+
+2022-08-09T10:50:47+00:00 CRITICAL Uncaught Error: Call to undefined function MyListing\Ext\Advanced_Custom_Fields\acf_add_options_sub_page() in /home/storm/sites/find-vc-atomicdev-xyz/public/wp-content/themes/my-listing/includes/extensions/advanced-custom-fields/advanced-custom-fields.php:62
+Stack trace:
+#0 /home/storm/sites/find-vc-atomicdev-xyz/public/wp-includes/class-wp-hook.php(307): MyListing\Ext\Advanced_Custom_Fields\Advanced_Custom_Fields->add_theme_options_page()
+#1 /home/storm/sites/find-vc-atomicdev-xyz/public/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#2 /home/storm/sites/find-vc-atomicdev-xyz/public/wp-includes/plugin.php(476): WP_Hook->do_action()
+#3 /home/storm/sites/find-vc-atomicdev-xyz/public/wp-content/themes/my-listing/includes/init.php(65): do_action()
+#4 /home/storm/sites/find-vc-atomicdev-xyz/public/wp-content/themes/my-listing/includes/autoload.php(40): require_once('/home/storm/sit...')
+#5 /home/storm/sites/find-vc-atomicdev-xyz/public/wp-content/themes/my-listing/functions.php(26): require_once('/h in /home/storm/sites/find-vc-atomicdev-xyz/public/wp-content/themes/my-listing/includes/extensions/advanced-custom-fields/advanced-custom-fields.php on line 62
+
+2022-08-09T10:51:04+00:00 CRITICAL Uncaught Error: Call to undefined function MyListing\Ext\Advanced_Custom_Fields\acf_add_options_sub_page() in /home/storm/sites/find-vc-atomicdev-xyz/public/wp-content/themes/my-listing/includes/extensions/advanced-custom-fields/advanced-custom-fields.php:62
+Stack trace:
+#0 /home/storm/sites/find-vc-atomicdev-xyz/public/wp-includes/class-wp-hook.php(307): MyListing\Ext\Advanced_Custom_Fields\Advanced_Custom_Fields->add_theme_options_page()
+#1 /home/storm/sites/find-vc-atomicdev-xyz/public/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#2 /home/storm/sites/find-vc-atomicdev-xyz/public/wp-includes/plugin.php(476): WP_Hook->do_action()
+#3 /home/storm/sites/find-vc-atomicdev-xyz/public/wp-content/themes/my-listing/includes/init.php(65): do_action()
+#4 /home/storm/sites/find-vc-atomicdev-xyz/public/wp-content/themes/my-listing/includes/autoload.php(40): require_once('/home/storm/sit...')
+#5 /home/storm/sites/find-vc-atomicdev-xyz/public/wp-content/themes/my-listing/functions.php(26): require_once('/h in /home/storm/sites/find-vc-atomicdev-xyz/public/wp-content/themes/my-listing/includes/extensions/advanced-custom-fields/advanced-custom-fields.php on line 62
+
+2022-08-09T10:51:56+00:00 CRITICAL Uncaught Error: Call to undefined function MyListing\Ext\Advanced_Custom_Fields\acf_add_options_sub_page() in /home/storm/sites/find-vc-atomicdev-xyz/public/wp-content/themes/my-listing/includes/extensions/advanced-custom-fields/advanced-custom-fields.php:62
+Stack trace:
+#0 /home/storm/sites/find-vc-atomicdev-xyz/public/wp-includes/class-wp-hook.php(307): MyListing\Ext\Advanced_Custom_Fields\Advanced_Custom_Fields->add_theme_options_page()
+#1 /home/storm/sites/find-vc-atomicdev-xyz/public/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#2 /home/storm/sites/find-vc-atomicdev-xyz/public/wp-includes/plugin.php(476): WP_Hook->do_action()
+#3 /home/storm/sites/find-vc-atomicdev-xyz/public/wp-content/themes/my-listing/includes/init.php(65): do_action()
+#4 /home/storm/sites/find-vc-atomicdev-xyz/public/wp-content/themes/my-listing/includes/autoload.php(40): require_once('/home/storm/sit...')
+#5 /home/storm/sites/find-vc-atomicdev-xyz/public/wp-content/themes/my-listing/functions.php(26): require_once('/h in /home/storm/sites/find-vc-atomicdev-xyz/public/wp-content/themes/my-listing/includes/extensions/advanced-custom-fields/advanced-custom-fields.php on line 62
+
